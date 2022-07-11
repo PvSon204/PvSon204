@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @PvSon2504
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PvSon204/PvSon204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+namespace PVS
+  {
+        static void Main(string[] args)
+        {
+            string Name = "Phan Văn Sơn";
+            string Age = "2004";
+            string Gender = "Male";
+            string Address = "Nghệ An, Việt Nam";
+            string FamousQuotes = "Hãy luôn là chính mình";
+        }
+    }
